@@ -1,0 +1,27 @@
+.category {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+.con1 > h2 {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 30px;
+}
+
+.category > table{
+    width: 80%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
